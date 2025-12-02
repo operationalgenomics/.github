@@ -24,7 +24,7 @@ PT-BR: https://a.co/d/a4PRANJ
 EN-US: https://a.co/d/ciFwzqM  
 
 ### 🔗 Connect  
-LinkedIn: https://www.linkedin.com/in/carlos-eduardo-favini  
+LinkedIn: https://www.linkedin.com/in/cefavini  
 Medium: https://medium.com/@operationalgenomics  
 
 ### 📜 License  
